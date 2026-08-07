@@ -67,7 +67,7 @@ Used Boolean expressions and tested multiple input scenarios.
 
 | Reviewed Member | Repository Link | What Was Done Well | Issue Identified | Suggested Improvement |
 |-----------------|-----------------|--------------------|------------------|-----------------------|
-|                 |                 |                    |                  |                       |
+|   Amogh    | https://github.com/OneToucHA/preptrack-Amogh |  proper input and clear logic |  Repeated  yes/no validation logic  | Reduce duplicate code |
 
 ## Feedback Received
 

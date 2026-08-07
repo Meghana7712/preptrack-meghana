@@ -39,7 +39,7 @@ python main.py
 **Name:** Meghana
 
 **Repository URL:**
-(Paste your GitHub repository link here)
+ https://github.com/Meghana7712/preptrack-meghana.git
 
 **My Main Contribution:**
 Developed the complete PrepTrack application.

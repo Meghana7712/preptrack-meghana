@@ -71,15 +71,15 @@ Used Boolean expressions and tested multiple input scenarios.
 
 ## Feedback Received
 
-**Reviewed By:** __________
+**Reviewed By:** T Uday Kiran
 
-**Feedback Received:** __________
+**Feedback Received:** Formatting
 
-**Was the Feedback Valid?** Yes / No
+**Was the Feedback Valid?** Yes 
 
-**Change Made:** __________
+**Change Made:** Updated
 
-**Commit Message Used:** __________
+**Commit Message Used:** README Update
 
 ## Test Results
 
